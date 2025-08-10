@@ -24,10 +24,10 @@ button {
   padding: 10px 20px;
   margin: 10px;
   cursor: pointer;
-  background-color: #4caf50;
+  background-color: #10a8f9;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 7px;
 }
 
 ul {
@@ -39,5 +39,5 @@ li {
   background-color: #e0f7fa;
   margin: 5px 0;
   padding: 8px;
-  border-radius: 5px;
+  border-radius: 7px;
 }
